@@ -1,0 +1,15 @@
+{
+  "name": "what-hertz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "dev": "serve . -p 4000 --ssl-cert ./localhost.pem --ssl-key ./localhost-key.pem"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^13.0.2"
+  }
+}

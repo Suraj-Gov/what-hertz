@@ -1,3 +1,5 @@
 node_modules
 localhost-key.pem
 localhost.pem
+.DS_Store
+.parcel-cache
